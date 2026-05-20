@@ -5,12 +5,11 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.unit.sp
-import ecommerce.core.designsystem.generated.resources.Res
-import ecommerce.core.designsystem.generated.resources.*
-
 import org.jetbrains.compose.resources.Font
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
+import questspos.core.designsystem.generated.resources.Res
+import questspos.core.designsystem.generated.resources.*
 
 @Composable
 @Preview
