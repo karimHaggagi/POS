@@ -1,7 +1,7 @@
 package com.example.designsystem
 
-import ecommerce.core.designsystem.generated.resources.Res
-import ecommerce.core.designsystem.generated.resources.*
+import questspos.core.designsystem.generated.resources.Res
+import questspos.core.designsystem.generated.resources.*
 
 
 object Resources {
